@@ -2,7 +2,7 @@
 # Implementação do tipo abstrato de dados Pilha(estática);
 # Prof. Dr. Franklin César Flores
 # Alunos: Lucas Santana Zanzim RA: 143393
-#         Gabriel Lopes;
+#         Gabriel Lopes Pinel de Carvalho RA: 152703;
 
 # Definição do tipo Pilha com class, possui elem, um vetor onde os elementos da pilha serão armazenados, e topo,
 # posição do último elemento da pilha;

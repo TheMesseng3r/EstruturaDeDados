@@ -2,7 +2,7 @@
 # Avaliação de expressões em notação posfixa utilizando o tipo abstrato de dados Pilha (estática);
 # Prof. Dr. Franklin César Flores
 # Alunos: Lucas Santana Zanzim RA: 143393
-#         Gabriel Lopes;
+#         Gabriel Lopes Pinel de Carvalho RA: 152703;
 
 # Importa as funções de pilhas para fazer as contas da expressões;
 from pilhas import Pilha, inicializa_pilha, pilha_vazia, empilha, desempilha
